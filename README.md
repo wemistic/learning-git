@@ -1,3 +1,3 @@
 # learning-git
 
-This repository is used to learn github from online.
+This repository is used to learn git from Amigoscode
